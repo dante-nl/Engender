@@ -22,7 +22,7 @@
     		border: 1px solid #1E5A99;
     		border-radius: 8px;
             	text-decoration: none;
-		font-family: "Lucida Console";
+		font-family: 'Courier New', monospace;
 		color: #EA4861;
 		background-color: #292929;
         }
@@ -61,7 +61,7 @@
     		border: 1px solid #43baff;
     		border-radius: 8px;
             	text-decoration: none;
-		font-family: "Lucida Console";
+		font-family: 'Courier New', monospace;
 		color: #EA4861;
 		background-color: #292929;
         	}
