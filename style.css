@@ -6,7 +6,7 @@
 		text-align: center;
             }
          .button { 
-        	display: inline-block; 
+            display: inline-block; 
             text-align: center; vertical-align: middle; 
             padding: 12px 24px; border: 1px solid #1E5A99;
             border-radius: 8px;background: #1E5A99; color: #F5F5F5;
@@ -16,9 +16,20 @@
         	border: 1px solid #246bb8;
         	background: #246bb8; color: #F5F5F5;
          	}
+	.box {            
+        	display: inline-block;
+    		padding: 12px 24px;
+    		border: 1px solid #1E5A99;
+    		border-radius: 8px;
+            	text-decoration: none;
+		font-family: "Lucida Console";
+		color: #EA4861;
+		background-color: #292929;
+        }
+
         a {
-  			color: #1E5A99;
-			}
+  		color: #1E5A99;
+		}
       }
             
 @media (prefers-color-scheme: light) {
