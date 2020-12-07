@@ -54,8 +54,18 @@
     		border: 1px solid #50dfff;
     		background: #50dfff;
     		color: #F5F5F5;
-			}
-        a {
+		}
+	.box {            
+        	display: inline-block;
+    		padding: 12px 24px;
+    		border: 1px solid #43baff;
+    		border-radius: 8px;
+            	text-decoration: none;
+		font-family: "Lucida Console";
+		color: #EA4861;
+		background-color: #292929;
+        	}
+        	a {
   			color: #43baff;
 			}
         }
